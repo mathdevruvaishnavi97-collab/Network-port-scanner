@@ -1,0 +1,3 @@
+Open Ports:
+Port 22 (SSH) is open
+Port 80 (HTTP) is open
